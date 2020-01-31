@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.b6c44e4e.chunk.css",
-    "main.js": "/static/js/main.8fcceef6.chunk.js",
-    "main.js.map": "/static/js/main.8fcceef6.chunk.js.map",
+    "main.js": "/static/js/main.d7babc7a.chunk.js",
+    "main.js.map": "/static/js/main.d7babc7a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ef75aae8.js",
     "runtime-main.js.map": "/static/js/runtime-main.ef75aae8.js.map",
     "static/css/2.c8fafe1a.chunk.css": "/static/css/2.c8fafe1a.chunk.css",
     "static/js/2.78a301b5.chunk.js": "/static/js/2.78a301b5.chunk.js",
     "static/js/2.78a301b5.chunk.js.map": "/static/js/2.78a301b5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.20c7951a50bb48f06e42bcb935d9a357.js": "/precache-manifest.20c7951a50bb48f06e42bcb935d9a357.js",
+    "precache-manifest.89a007c2ccc63aefc9630c5b01779f1c.js": "/precache-manifest.89a007c2ccc63aefc9630c5b01779f1c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.c8fafe1a.chunk.css.map": "/static/css/2.c8fafe1a.chunk.css.map",
     "static/css/main.b6c44e4e.chunk.css.map": "/static/css/main.b6c44e4e.chunk.css.map",
@@ -52,7 +52,7 @@
     "static/media/new-project.md": "/static/media/new-project.02955fee.md",
     "static/media/notfound.md": "/static/media/notfound.bbcf1711.md",
     "static/media/index.css": "/static/media/roboto-mono-latin-700italic.7324e30e.woff",
-    "static/media/overlay.md": "/static/media/overlay.b3c0185c.md",
+    "static/media/overlay.md": "/static/media/overlay.692ccb16.md",
     "static/media/overview.md": "/static/media/overview.3a95d9b1.md",
     "static/media/patterns.svg": "/static/media/patterns.7b3ee377.svg",
     "static/media/pxblue-white.svg": "/static/media/pxblue-white.c26b974a.svg",
@@ -60,7 +60,7 @@
     "static/media/react-native.md": "/static/media/react-native.8545463f.md",
     "static/media/react.md": "/static/media/react.e7851667.md",
     "static/media/release-notes.md": "/static/media/release-notes.d2319670.md",
-    "static/media/resources.md": "/static/media/resources.6005b306.md",
+    "static/media/resources.md": "/static/media/resources.adde2c16.md",
     "static/media/reuse.svg": "/static/media/reuse.bc9a9cf2.svg",
     "static/media/sharing.md": "/static/media/sharing.e7da9378.md",
     "static/media/snowflake.svg": "/static/media/snowflake.cfea8931.svg",
@@ -80,6 +80,6 @@
     "static/css/2.c8fafe1a.chunk.css",
     "static/js/2.78a301b5.chunk.js",
     "static/css/main.b6c44e4e.chunk.css",
-    "static/js/main.8fcceef6.chunk.js"
+    "static/js/main.d7babc7a.chunk.js"
   ]
 }
