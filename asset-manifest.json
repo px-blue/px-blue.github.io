@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.b6c44e4e.chunk.css",
-    "main.js": "/static/js/main.d7babc7a.chunk.js",
-    "main.js.map": "/static/js/main.d7babc7a.chunk.js.map",
+    "main.js": "/static/js/main.4b800979.chunk.js",
+    "main.js.map": "/static/js/main.4b800979.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ef75aae8.js",
     "runtime-main.js.map": "/static/js/runtime-main.ef75aae8.js.map",
     "static/css/2.c8fafe1a.chunk.css": "/static/css/2.c8fafe1a.chunk.css",
     "static/js/2.78a301b5.chunk.js": "/static/js/2.78a301b5.chunk.js",
     "static/js/2.78a301b5.chunk.js.map": "/static/js/2.78a301b5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.89a007c2ccc63aefc9630c5b01779f1c.js": "/precache-manifest.89a007c2ccc63aefc9630c5b01779f1c.js",
+    "precache-manifest.0f949da0b61ee96fbf70e4769d8aeac2.js": "/precache-manifest.0f949da0b61ee96fbf70e4769d8aeac2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.c8fafe1a.chunk.css.map": "/static/css/2.c8fafe1a.chunk.css.map",
     "static/css/main.b6c44e4e.chunk.css.map": "/static/css/main.b6c44e4e.chunk.css.map",
@@ -57,7 +57,7 @@
     "static/media/patterns.svg": "/static/media/patterns.7b3ee377.svg",
     "static/media/pxblue-white.svg": "/static/media/pxblue-white.c26b974a.svg",
     "static/media/pxblue.svg": "/static/media/pxblue.d5fa6462.svg",
-    "static/media/react-native.md": "/static/media/react-native.8545463f.md",
+    "static/media/react-native.md": "/static/media/react-native.35d7b315.md",
     "static/media/react.md": "/static/media/react.e7851667.md",
     "static/media/release-notes.md": "/static/media/release-notes.d2319670.md",
     "static/media/resources.md": "/static/media/resources.adde2c16.md",
@@ -80,6 +80,6 @@
     "static/css/2.c8fafe1a.chunk.css",
     "static/js/2.78a301b5.chunk.js",
     "static/css/main.b6c44e4e.chunk.css",
-    "static/js/main.d7babc7a.chunk.js"
+    "static/js/main.4b800979.chunk.js"
   ]
 }
