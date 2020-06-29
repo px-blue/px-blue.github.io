@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.1aa47494.chunk.css",
-    "main.js": "/static/js/main.1a7ec759.chunk.js",
-    "main.js.map": "/static/js/main.1a7ec759.chunk.js.map",
+    "main.js": "/static/js/main.3d1dd650.chunk.js",
+    "main.js.map": "/static/js/main.3d1dd650.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fc3a4378.js",
     "runtime-main.js.map": "/static/js/runtime-main.fc3a4378.js.map",
     "static/css/2.2f50633a.chunk.css": "/static/css/2.2f50633a.chunk.css",
-    "static/js/2.31e00668.chunk.js": "/static/js/2.31e00668.chunk.js",
-    "static/js/2.31e00668.chunk.js.map": "/static/js/2.31e00668.chunk.js.map",
+    "static/js/2.7a4974b3.chunk.js": "/static/js/2.7a4974b3.chunk.js",
+    "static/js/2.7a4974b3.chunk.js.map": "/static/js/2.7a4974b3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2a3350d62dc052e995fe03532dd42fe9.js": "/precache-manifest.2a3350d62dc052e995fe03532dd42fe9.js",
+    "precache-manifest.9df8dcf68dea2d5bdd5d26528d7f786f.js": "/precache-manifest.9df8dcf68dea2d5bdd5d26528d7f786f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2f50633a.chunk.css.map": "/static/css/2.2f50633a.chunk.css.map",
     "static/css/main.1aa47494.chunk.css.map": "/static/css/main.1aa47494.chunk.css.map",
-    "static/js/2.31e00668.chunk.js.LICENSE": "/static/js/2.31e00668.chunk.js.LICENSE",
+    "static/js/2.7a4974b3.chunk.js.LICENSE": "/static/js/2.7a4974b3.chunk.js.LICENSE",
     "static/media/action-list-item-action.png": "/static/media/action-list-item-action.117d57ba.png",
     "static/media/action-list-overlay.png": "/static/media/action-list-overlay.d8320c64.png",
     "static/media/action-list.png": "/static/media/action-list.c66d4b92.png",
@@ -57,6 +57,7 @@
     "static/media/page-layout.png": "/static/media/page-layout.ef29cf00.png",
     "static/media/pattern-states.png": "/static/media/pattern-states.0bd0bdf6.png",
     "static/media/pxb.svg": "/static/media/pxb.c26b974a.svg",
+    "static/media/pxblue-conformity.svg": "/static/media/pxblue-conformity.c038cecb.svg",
     "static/media/registration-account-details.png": "/static/media/registration-account-details.ba6f3da2.png",
     "static/media/registration-verify-email.png": "/static/media/registration-verify-email.46724aad.png",
     "static/media/resource-categories.png": "/static/media/resource-categories.1694d089.png",
@@ -82,8 +83,8 @@
   "entrypoints": [
     "static/js/runtime-main.fc3a4378.js",
     "static/css/2.2f50633a.chunk.css",
-    "static/js/2.31e00668.chunk.js",
+    "static/js/2.7a4974b3.chunk.js",
     "static/css/main.1aa47494.chunk.css",
-    "static/js/main.1a7ec759.chunk.js"
+    "static/js/main.3d1dd650.chunk.js"
   ]
 }
