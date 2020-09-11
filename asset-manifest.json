@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.f5f0131e.chunk.css",
-    "main.js": "/static/js/main.9ea78e2b.chunk.js",
-    "main.js.map": "/static/js/main.9ea78e2b.chunk.js.map",
+    "main.js": "/static/js/main.80b1c71a.chunk.js",
+    "main.js.map": "/static/js/main.80b1c71a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fc3a4378.js",
     "runtime-main.js.map": "/static/js/runtime-main.fc3a4378.js.map",
     "static/css/2.2f50633a.chunk.css": "/static/css/2.2f50633a.chunk.css",
     "static/js/2.7d7ef5a9.chunk.js": "/static/js/2.7d7ef5a9.chunk.js",
     "static/js/2.7d7ef5a9.chunk.js.map": "/static/js/2.7d7ef5a9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9f15cc3ce24933e6e215b2f92124406b.js": "/precache-manifest.9f15cc3ce24933e6e215b2f92124406b.js",
+    "precache-manifest.873f20e70b7cd61d23e1061bafd7b445.js": "/precache-manifest.873f20e70b7cd61d23e1061bafd7b445.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2f50633a.chunk.css.map": "/static/css/2.2f50633a.chunk.css.map",
     "static/css/main.f5f0131e.chunk.css.map": "/static/css/main.f5f0131e.chunk.css.map",
@@ -18,13 +18,13 @@
     "static/media/action-list-overlay.png": "/static/media/action-list-overlay.d8320c64.png",
     "static/media/action-list.png": "/static/media/action-list.c66d4b92.png",
     "static/media/application.png": "/static/media/application.a7481365.png",
-    "static/media/button-width.png": "/static/media/button-width.b31661b7.png",
+    "static/media/button-width.png": "/static/media/button-width.d363c9b6.png",
     "static/media/circles.svg": "/static/media/circles.0bdac9a5.svg",
     "static/media/collapsible-appbar-collapsed.png": "/static/media/collapsible-appbar-collapsed.7d8304e2.png",
     "static/media/collapsible-appbar-expanded.png": "/static/media/collapsible-appbar-expanded.8040d45b.png",
     "static/media/complex-bottomsheet.png": "/static/media/complex-bottomsheet.e636e1af.png",
     "static/media/components.png": "/static/media/components.f82aca8b.png",
-    "static/media/cultural-differences.svg": "/static/media/cultural-differences.5071780c.svg",
+    "static/media/cultural-differences.svg": "/static/media/cultural-differences.72b4dba7.svg",
     "static/media/data-visualization.png": "/static/media/data-visualization.c41d5665.png",
     "static/media/design-system.jpg": "/static/media/design-system.f7b584f8.jpg",
     "static/media/design.jpg": "/static/media/design.b1c45981.jpg",
@@ -108,6 +108,6 @@
     "static/css/2.2f50633a.chunk.css",
     "static/js/2.7d7ef5a9.chunk.js",
     "static/css/main.f5f0131e.chunk.css",
-    "static/js/main.9ea78e2b.chunk.js"
+    "static/js/main.80b1c71a.chunk.js"
   ]
 }
