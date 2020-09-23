@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.f5f0131e.chunk.css",
-    "main.js": "/static/js/main.94a0bfc8.chunk.js",
-    "main.js.map": "/static/js/main.94a0bfc8.chunk.js.map",
+    "main.js": "/static/js/main.d8af8659.chunk.js",
+    "main.js.map": "/static/js/main.d8af8659.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fc3a4378.js",
     "runtime-main.js.map": "/static/js/runtime-main.fc3a4378.js.map",
     "static/css/2.2f50633a.chunk.css": "/static/css/2.2f50633a.chunk.css",
-    "static/js/2.2b3cd43e.chunk.js": "/static/js/2.2b3cd43e.chunk.js",
-    "static/js/2.2b3cd43e.chunk.js.map": "/static/js/2.2b3cd43e.chunk.js.map",
+    "static/js/2.c3a38c8f.chunk.js": "/static/js/2.c3a38c8f.chunk.js",
+    "static/js/2.c3a38c8f.chunk.js.map": "/static/js/2.c3a38c8f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.265e6dc532c3403170af28a01afd532e.js": "/precache-manifest.265e6dc532c3403170af28a01afd532e.js",
+    "precache-manifest.dfbf0e1f89e8a83e29b484031bded62c.js": "/precache-manifest.dfbf0e1f89e8a83e29b484031bded62c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2f50633a.chunk.css.map": "/static/css/2.2f50633a.chunk.css.map",
     "static/css/main.f5f0131e.chunk.css.map": "/static/css/main.f5f0131e.chunk.css.map",
-    "static/js/2.2b3cd43e.chunk.js.LICENSE": "/static/js/2.2b3cd43e.chunk.js.LICENSE",
+    "static/js/2.c3a38c8f.chunk.js.LICENSE": "/static/js/2.c3a38c8f.chunk.js.LICENSE",
     "static/media/accept-eula.png": "/static/media/accept-eula.1174fdef.png",
     "static/media/account-details.png": "/static/media/account-details.816e8b5c.png",
     "static/media/action-button-as-button.png": "/static/media/action-button-as-button.9f9b598d.png",
@@ -40,7 +40,10 @@
     "static/media/dashboard-list-mobile.png": "/static/media/dashboard-list-mobile.a290db43.png",
     "static/media/dashboard-list.png": "/static/media/dashboard-list.1b81fae9.png",
     "static/media/data-visualization.png": "/static/media/data-visualization.c41d5665.png",
+    "static/media/design-color.png": "/static/media/design-color.15f70ee8.png",
+    "static/media/design-perceivable.png": "/static/media/design-perceivable.3660003f.png",
     "static/media/design-system.jpg": "/static/media/design-system.f7b584f8.jpg",
+    "static/media/design-understandable.png": "/static/media/design-understandable.d60840ff.png",
     "static/media/design.jpg": "/static/media/design.b1c45981.jpg",
     "static/media/desktop-loading.gif": "/static/media/desktop-loading.153f8318.gif",
     "static/media/develop.jpg": "/static/media/develop.f0de8392.jpg",
@@ -151,8 +154,8 @@
   "entrypoints": [
     "static/js/runtime-main.fc3a4378.js",
     "static/css/2.2f50633a.chunk.css",
-    "static/js/2.2b3cd43e.chunk.js",
+    "static/js/2.c3a38c8f.chunk.js",
     "static/css/main.f5f0131e.chunk.css",
-    "static/js/main.94a0bfc8.chunk.js"
+    "static/js/main.d8af8659.chunk.js"
   ]
 }
