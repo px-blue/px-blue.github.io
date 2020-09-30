@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.f5f0131e.chunk.css",
-    "main.js": "/static/js/main.8326ab8d.chunk.js",
-    "main.js.map": "/static/js/main.8326ab8d.chunk.js.map",
+    "main.js": "/static/js/main.59dabbc3.chunk.js",
+    "main.js.map": "/static/js/main.59dabbc3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fc3a4378.js",
     "runtime-main.js.map": "/static/js/runtime-main.fc3a4378.js.map",
     "static/css/2.2f50633a.chunk.css": "/static/css/2.2f50633a.chunk.css",
-    "static/js/2.9ec4507d.chunk.js": "/static/js/2.9ec4507d.chunk.js",
-    "static/js/2.9ec4507d.chunk.js.map": "/static/js/2.9ec4507d.chunk.js.map",
+    "static/js/2.c1d05c35.chunk.js": "/static/js/2.c1d05c35.chunk.js",
+    "static/js/2.c1d05c35.chunk.js.map": "/static/js/2.c1d05c35.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.eb7a1fad3b5e20a9711ec2f699cb4bd0.js": "/precache-manifest.eb7a1fad3b5e20a9711ec2f699cb4bd0.js",
+    "precache-manifest.2c247a9f29381ed54786bb399d3a1035.js": "/precache-manifest.2c247a9f29381ed54786bb399d3a1035.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2f50633a.chunk.css.map": "/static/css/2.2f50633a.chunk.css.map",
     "static/css/main.f5f0131e.chunk.css.map": "/static/css/main.f5f0131e.chunk.css.map",
-    "static/js/2.9ec4507d.chunk.js.LICENSE": "/static/js/2.9ec4507d.chunk.js.LICENSE",
+    "static/js/2.c1d05c35.chunk.js.LICENSE": "/static/js/2.c1d05c35.chunk.js.LICENSE",
     "static/media/accept-eula.png": "/static/media/accept-eula.1174fdef.png",
     "static/media/account-details.png": "/static/media/account-details.816e8b5c.png",
     "static/media/action-button-as-button.png": "/static/media/action-button-as-button.9f9b598d.png",
@@ -22,6 +22,7 @@
     "static/media/anatomy.png": "/static/media/anatomy.fba5d291.png",
     "static/media/application.png": "/static/media/application.a7481365.png",
     "static/media/auto-complete-variants.png": "/static/media/auto-complete-variants.f35221db.png",
+    "static/media/banner.svg": "/static/media/banner.f733a935.svg",
     "static/media/basic-app-bars.png": "/static/media/basic-app-bars.9b7884ed.png",
     "static/media/button-width.png": "/static/media/button-width.d363c9b6.png",
     "static/media/change-password-confirm.png": "/static/media/change-password-confirm.2c42e079.png",
@@ -171,8 +172,8 @@
   "entrypoints": [
     "static/js/runtime-main.fc3a4378.js",
     "static/css/2.2f50633a.chunk.css",
-    "static/js/2.9ec4507d.chunk.js",
+    "static/js/2.c1d05c35.chunk.js",
     "static/css/main.f5f0131e.chunk.css",
-    "static/js/main.8326ab8d.chunk.js"
+    "static/js/main.59dabbc3.chunk.js"
   ]
 }
