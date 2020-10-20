@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5f0131e.chunk.css",
-    "main.js": "/static/js/main.4089f98c.chunk.js",
-    "main.js.map": "/static/js/main.4089f98c.chunk.js.map",
+    "main.css": "/static/css/main.af47c8bc.chunk.css",
+    "main.js": "/static/js/main.b2a81653.chunk.js",
+    "main.js.map": "/static/js/main.b2a81653.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.32dacd70.js",
     "runtime-main.js.map": "/static/js/runtime-main.32dacd70.js.map",
     "static/css/2.2f50633a.chunk.css": "/static/css/2.2f50633a.chunk.css",
-    "static/js/2.09ad05ad.chunk.js": "/static/js/2.09ad05ad.chunk.js",
-    "static/js/2.09ad05ad.chunk.js.map": "/static/js/2.09ad05ad.chunk.js.map",
+    "static/js/2.069aad84.chunk.js": "/static/js/2.069aad84.chunk.js",
+    "static/js/2.069aad84.chunk.js.map": "/static/js/2.069aad84.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ba1b5c57e264afcb792a48280092ac70.js": "/precache-manifest.ba1b5c57e264afcb792a48280092ac70.js",
+    "precache-manifest.644ac6e9e479bb00842db167f4c38328.js": "/precache-manifest.644ac6e9e479bb00842db167f4c38328.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2f50633a.chunk.css.map": "/static/css/2.2f50633a.chunk.css.map",
-    "static/css/main.f5f0131e.chunk.css.map": "/static/css/main.f5f0131e.chunk.css.map",
-    "static/js/2.09ad05ad.chunk.js.LICENSE.txt": "/static/js/2.09ad05ad.chunk.js.LICENSE.txt",
+    "static/css/main.af47c8bc.chunk.css.map": "/static/css/main.af47c8bc.chunk.css.map",
+    "static/js/2.069aad84.chunk.js.LICENSE.txt": "/static/js/2.069aad84.chunk.js.LICENSE.txt",
     "static/media/accept-eula.png": "/static/media/accept-eula.1174fdef.png",
     "static/media/account-details.png": "/static/media/account-details.816e8b5c.png",
     "static/media/action-button-as-button.png": "/static/media/action-button-as-button.9f9b598d.png",
@@ -27,6 +27,7 @@
     "static/media/bottom-tabs-specs.png": "/static/media/bottom-tabs-specs.377b2b5a.png",
     "static/media/brian-shyu.jpg": "/static/media/brian-shyu.e7c6ea52.jpg",
     "static/media/button-width.png": "/static/media/button-width.d363c9b6.png",
+    "static/media/castles.svg": "/static/media/castles.bcf5d7bf.svg",
     "static/media/change-password-confirm.png": "/static/media/change-password-confirm.2c42e079.png",
     "static/media/change-password-desktop.png": "/static/media/change-password-desktop.645c137e.png",
     "static/media/change-password.png": "/static/media/change-password.cfa04bf5.png",
@@ -86,6 +87,7 @@
     "static/media/forms.png": "/static/media/forms.5651db3a.png",
     "static/media/github.png": "/static/media/github.f298de3e.png",
     "static/media/grids.png": "/static/media/grids.a49dd543.png",
+    "static/media/halloween-appbar-tile.svg": "/static/media/halloween-appbar-tile.4887e007.svg",
     "static/media/headline-options.png": "/static/media/headline-options.2188d5bf.png",
     "static/media/huayun-huang.jpg": "/static/media/huayun-huang.91a63730.jpg",
     "static/media/ian-todhunter.jpg": "/static/media/ian-todhunter.08bcbea6.jpg",
@@ -149,7 +151,6 @@
     "static/media/pattern-states.png": "/static/media/pattern-states.0bd0bdf6.png",
     "static/media/persistent-drawer-hover.gif": "/static/media/persistent-drawer-hover.14f2d31c.gif",
     "static/media/pie-chart.png": "/static/media/pie-chart.af3c82f3.png",
-    "static/media/pxb.svg": "/static/media/pxb.c26b974a.svg",
     "static/media/pxblue-conformity.svg": "/static/media/pxblue-conformity.c038cecb.svg",
     "static/media/registration-desktop.png": "/static/media/registration-desktop.49e9a5b5.png",
     "static/media/reset-password-desktop.png": "/static/media/reset-password-desktop.fa2ab5c9.png",
@@ -206,8 +207,8 @@
   "entrypoints": [
     "static/js/runtime-main.32dacd70.js",
     "static/css/2.2f50633a.chunk.css",
-    "static/js/2.09ad05ad.chunk.js",
-    "static/css/main.f5f0131e.chunk.css",
-    "static/js/main.4089f98c.chunk.js"
+    "static/js/2.069aad84.chunk.js",
+    "static/css/main.af47c8bc.chunk.css",
+    "static/js/main.b2a81653.chunk.js"
   ]
 }
