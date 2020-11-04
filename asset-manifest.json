@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.d957073a.chunk.css",
-    "main.js": "/static/js/main.90f1d99b.chunk.js",
-    "main.js.map": "/static/js/main.90f1d99b.chunk.js.map",
+    "main.js": "/static/js/main.a37a704c.chunk.js",
+    "main.js.map": "/static/js/main.a37a704c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.32dacd70.js",
     "runtime-main.js.map": "/static/js/runtime-main.32dacd70.js.map",
     "static/css/2.2f50633a.chunk.css": "/static/css/2.2f50633a.chunk.css",
-    "static/js/2.ea6f6225.chunk.js": "/static/js/2.ea6f6225.chunk.js",
-    "static/js/2.ea6f6225.chunk.js.map": "/static/js/2.ea6f6225.chunk.js.map",
+    "static/js/2.874872b6.chunk.js": "/static/js/2.874872b6.chunk.js",
+    "static/js/2.874872b6.chunk.js.map": "/static/js/2.874872b6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.51c9037fd08d56c20deed628f2020302.js": "/precache-manifest.51c9037fd08d56c20deed628f2020302.js",
+    "precache-manifest.27c853af267233b8016abd9dd73a1c79.js": "/precache-manifest.27c853af267233b8016abd9dd73a1c79.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2f50633a.chunk.css.map": "/static/css/2.2f50633a.chunk.css.map",
     "static/css/main.d957073a.chunk.css.map": "/static/css/main.d957073a.chunk.css.map",
-    "static/js/2.ea6f6225.chunk.js.LICENSE.txt": "/static/js/2.ea6f6225.chunk.js.LICENSE.txt",
+    "static/js/2.874872b6.chunk.js.LICENSE.txt": "/static/js/2.874872b6.chunk.js.LICENSE.txt",
     "static/media/accept-eula.png": "/static/media/accept-eula.1174fdef.png",
     "static/media/account-details.png": "/static/media/account-details.816e8b5c.png",
     "static/media/action-button-as-button.png": "/static/media/action-button-as-button.9f9b598d.png",
@@ -37,6 +37,7 @@
     "static/media/collapsed.png": "/static/media/collapsed.20709671.png",
     "static/media/collapsible.png": "/static/media/collapsible.34ea4886.png",
     "static/media/collapsible.gif": "/static/media/collapsible.9a42c9eb.gif",
+    "static/media/component-search.png": "/static/media/component-search.a7e232ed.png",
     "static/media/components.png": "/static/media/components.f82aca8b.png",
     "static/media/contacts.png": "/static/media/contacts.12d6e756.png",
     "static/media/content-cover.png": "/static/media/content-cover.34642def.png",
@@ -148,6 +149,7 @@
     "static/media/index.css": "/static/media/roboto-mono-latin-700italic.b933305e.woff",
     "static/media/overlay-banner.svg": "/static/media/overlay-banner.2f7efcb5.svg",
     "static/media/overlay-spinner.png": "/static/media/overlay-spinner.a00a9b00.png",
+    "static/media/page-search.png": "/static/media/page-search.1c522ea0.png",
     "static/media/pagers.png": "/static/media/pagers.b78a445f.png",
     "static/media/panel-specs-desktop.png": "/static/media/panel-specs-desktop.51ccba7c.png",
     "static/media/panel-specs-mobile.png": "/static/media/panel-specs-mobile.70bba187.png",
@@ -166,6 +168,7 @@
     "static/media/simple-dialog.png": "/static/media/simple-dialog.ac5878e3.png",
     "static/media/simple-list-1.png": "/static/media/simple-list-1.6dea7069.png",
     "static/media/simple-list-2.png": "/static/media/simple-list-2.6a4652c0.png",
+    "static/media/site-search.png": "/static/media/site-search.77fbfd97.png",
     "static/media/sortable-list.gif": "/static/media/sortable-list.714267df.gif",
     "static/media/spec-1.png": "/static/media/spec-1.938fb1c0.png",
     "static/media/spec-2.png": "/static/media/spec-2.c5c547e1.png",
@@ -210,8 +213,8 @@
   "entrypoints": [
     "static/js/runtime-main.32dacd70.js",
     "static/css/2.2f50633a.chunk.css",
-    "static/js/2.ea6f6225.chunk.js",
+    "static/js/2.874872b6.chunk.js",
     "static/css/main.d957073a.chunk.css",
-    "static/js/main.90f1d99b.chunk.js"
+    "static/js/main.a37a704c.chunk.js"
   ]
 }
