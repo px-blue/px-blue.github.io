@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83196a9679ce5c5cb128c4480cf86467",
+    "revision": "6cb20314f76b69425319f39d4ba268c9",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.2f50633a.chunk.css"
   },
   {
-    "revision": "596ab6945971f4f978b5",
+    "revision": "f9cfd760e68b3cd4763c",
     "url": "/static/css/main.d957073a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.3ba29fee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "596ab6945971f4f978b5",
-    "url": "/static/js/main.b2663a3b.chunk.js"
+    "revision": "f9cfd760e68b3cd4763c",
+    "url": "/static/js/main.a3db1564.chunk.js"
   },
   {
     "revision": "43aeffb30f78b5226a2d",
@@ -212,8 +212,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/diwali-appbar-tile.381d5cd2.png"
   },
   {
-    "revision": "62a456d626debaf2a1d7fb17c9319fc6",
-    "url": "/static/media/diwali-banner.62a456d6.jpg"
+    "revision": "715658b17b51701df84e96ce5a278c38",
+    "url": "/static/media/diwali-banner.715658b1.jpg"
   },
   {
     "revision": "78e91f91ac3a88280ce93b5705a573bc",
