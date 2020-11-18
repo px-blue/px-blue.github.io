@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.d957073a.chunk.css",
-    "main.js": "/static/js/main.0fe5e708.chunk.js",
-    "main.js.map": "/static/js/main.0fe5e708.chunk.js.map",
+    "main.js": "/static/js/main.1f018dc0.chunk.js",
+    "main.js.map": "/static/js/main.1f018dc0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.32dacd70.js",
     "runtime-main.js.map": "/static/js/runtime-main.32dacd70.js.map",
     "static/css/2.2f50633a.chunk.css": "/static/css/2.2f50633a.chunk.css",
-    "static/js/2.3ba29fee.chunk.js": "/static/js/2.3ba29fee.chunk.js",
-    "static/js/2.3ba29fee.chunk.js.map": "/static/js/2.3ba29fee.chunk.js.map",
+    "static/js/2.7dd3e74a.chunk.js": "/static/js/2.7dd3e74a.chunk.js",
+    "static/js/2.7dd3e74a.chunk.js.map": "/static/js/2.7dd3e74a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bedfce49d5e94ff675a89ef17aa82a5e.js": "/precache-manifest.bedfce49d5e94ff675a89ef17aa82a5e.js",
+    "precache-manifest.14ec19cb394bc04fa322053d5049fda3.js": "/precache-manifest.14ec19cb394bc04fa322053d5049fda3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2f50633a.chunk.css.map": "/static/css/2.2f50633a.chunk.css.map",
     "static/css/main.d957073a.chunk.css.map": "/static/css/main.d957073a.chunk.css.map",
-    "static/js/2.3ba29fee.chunk.js.LICENSE.txt": "/static/js/2.3ba29fee.chunk.js.LICENSE.txt",
+    "static/js/2.7dd3e74a.chunk.js.LICENSE.txt": "/static/js/2.7dd3e74a.chunk.js.LICENSE.txt",
     "static/media/accept-eula.png": "/static/media/accept-eula.1174fdef.png",
     "static/media/account-details.png": "/static/media/account-details.816e8b5c.png",
     "static/media/action-button-as-button.png": "/static/media/action-button-as-button.9f9b598d.png",
@@ -180,6 +180,8 @@
     "static/media/submit-button-on-change.png": "/static/media/submit-button-on-change.41656ece.png",
     "static/media/submit-button-on-click.png": "/static/media/submit-button-on-click.bd084a03.png",
     "static/media/text-field-width.png": "/static/media/text-field-width.76ad5525.png",
+    "static/media/thanksgiving-appbar-tile.png": "/static/media/thanksgiving-appbar-tile.77620f04.png",
+    "static/media/thanksgiving-banner.jpg": "/static/media/thanksgiving-banner.26fff060.jpg",
     "static/media/theme-dark.png": "/static/media/theme-dark.fdbb4295.png",
     "static/media/theme-light.png": "/static/media/theme-light.f8541137.png",
     "static/media/themes.png": "/static/media/themes.01a83d90.png",
@@ -200,8 +202,8 @@
   "entrypoints": [
     "static/js/runtime-main.32dacd70.js",
     "static/css/2.2f50633a.chunk.css",
-    "static/js/2.3ba29fee.chunk.js",
+    "static/js/2.7dd3e74a.chunk.js",
     "static/css/main.d957073a.chunk.css",
-    "static/js/main.0fe5e708.chunk.js"
+    "static/js/main.1f018dc0.chunk.js"
   ]
 }
