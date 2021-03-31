@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1e59304c.chunk.css",
-    "main.js": "/static/js/main.01f22d54.chunk.js",
-    "main.js.map": "/static/js/main.01f22d54.chunk.js.map",
+    "main.js": "/static/js/main.ac3c9fc0.chunk.js",
+    "main.js.map": "/static/js/main.ac3c9fc0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46770d2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.46770d2c.js.map",
     "static/css/2.ce40cafb.chunk.css": "/static/css/2.ce40cafb.chunk.css",
@@ -119,6 +119,7 @@
     "static/media/international-women-s-day-banner.c31821f9.svg": "/static/media/international-women-s-day-banner.c31821f9.svg",
     "static/media/internationalization.4debf12e.svg": "/static/media/internationalization.4debf12e.svg",
     "static/media/join-an-organization-desktop.93006ddd.png": "/static/media/join-an-organization-desktop.93006ddd.png",
+    "static/media/joseph-boyle.0cfd0242.png": "/static/media/joseph-boyle.0cfd0242.png",
     "static/media/kwanzaa-appbar-tile.1b32e646.png": "/static/media/kwanzaa-appbar-tile.1b32e646.png",
     "static/media/kwanzaa-banner.12ec1837.png": "/static/media/kwanzaa-banner.12ec1837.png",
     "static/media/language-options.a93b8b3b.png": "/static/media/language-options.a93b8b3b.png",
@@ -269,6 +270,6 @@
     "static/css/2.ce40cafb.chunk.css",
     "static/js/2.4e2fbb7c.chunk.js",
     "static/css/main.1e59304c.chunk.css",
-    "static/js/main.01f22d54.chunk.js"
+    "static/js/main.ac3c9fc0.chunk.js"
   ]
 }
