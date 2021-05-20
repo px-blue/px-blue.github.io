@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.89f0342a.chunk.css",
-    "main.js": "/static/js/main.74c2dbea.chunk.js",
-    "main.js.map": "/static/js/main.74c2dbea.chunk.js.map",
+    "main.js": "/static/js/main.7d40f2a2.chunk.js",
+    "main.js.map": "/static/js/main.7d40f2a2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46770d2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.46770d2c.js.map",
     "static/css/2.ce40cafb.chunk.css": "/static/css/2.ce40cafb.chunk.css",
@@ -69,6 +69,8 @@
     "static/media/divider.be0d9e02.png": "/static/media/divider.be0d9e02.png",
     "static/media/diwali-appbar-tile.c7d91ec7.png": "/static/media/diwali-appbar-tile.c7d91ec7.png",
     "static/media/diwali-banner.de125906.jpg": "/static/media/diwali-banner.de125906.jpg",
+    "static/media/do-encourage.612ba891.png": "/static/media/do-encourage.612ba891.png",
+    "static/media/dont-distract.2f3248f4.png": "/static/media/dont-distract.2f3248f4.png",
     "static/media/drawer-divider.41c0776d.png": "/static/media/drawer-divider.41c0776d.png",
     "static/media/drawer-do-and-dont-1.6cfb2b74.png": "/static/media/drawer-do-and-dont-1.6cfb2b74.png",
     "static/media/drawer-do-and-dont-2.662204c9.png": "/static/media/drawer-do-and-dont-2.662204c9.png",
@@ -275,6 +277,6 @@
     "static/css/2.ce40cafb.chunk.css",
     "static/js/2.a5c3531b.chunk.js",
     "static/css/main.89f0342a.chunk.css",
-    "static/js/main.74c2dbea.chunk.js"
+    "static/js/main.7d40f2a2.chunk.js"
   ]
 }
