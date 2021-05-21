@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.89f0342a.chunk.css",
-    "main.js": "/static/js/main.7d40f2a2.chunk.js",
-    "main.js.map": "/static/js/main.7d40f2a2.chunk.js.map",
+    "main.js": "/static/js/main.33e2e512.chunk.js",
+    "main.js.map": "/static/js/main.33e2e512.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46770d2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.46770d2c.js.map",
     "static/css/2.ce40cafb.chunk.css": "/static/css/2.ce40cafb.chunk.css",
@@ -69,7 +69,7 @@
     "static/media/divider.be0d9e02.png": "/static/media/divider.be0d9e02.png",
     "static/media/diwali-appbar-tile.c7d91ec7.png": "/static/media/diwali-appbar-tile.c7d91ec7.png",
     "static/media/diwali-banner.de125906.jpg": "/static/media/diwali-banner.de125906.jpg",
-    "static/media/do-encourage.612ba891.png": "/static/media/do-encourage.612ba891.png",
+    "static/media/do-encourage.bbc2350c.png": "/static/media/do-encourage.bbc2350c.png",
     "static/media/dont-distract.2f3248f4.png": "/static/media/dont-distract.2f3248f4.png",
     "static/media/drawer-divider.41c0776d.png": "/static/media/drawer-divider.41c0776d.png",
     "static/media/drawer-do-and-dont-1.6cfb2b74.png": "/static/media/drawer-do-and-dont-1.6cfb2b74.png",
@@ -221,14 +221,14 @@
     "static/media/spec-typography-desktop.1753b5ae.png": "/static/media/spec-typography-desktop.1753b5ae.png",
     "static/media/spec-typography-mobile.c57be002.png": "/static/media/spec-typography-mobile.c57be002.png",
     "static/media/spec-typography.e89cede0.png": "/static/media/spec-typography.e89cede0.png",
+    "static/media/specs-1.2a7db87a.png": "/static/media/specs-1.2a7db87a.png",
     "static/media/specs-1.2da39ff0.png": "/static/media/specs-1.2da39ff0.png",
-    "static/media/specs-1.49d28ffc.png": "/static/media/specs-1.49d28ffc.png",
     "static/media/specs-1.7358d61d.png": "/static/media/specs-1.7358d61d.png",
     "static/media/specs-1.9be7da2e.png": "/static/media/specs-1.9be7da2e.png",
-    "static/media/specs-2.13db244b.png": "/static/media/specs-2.13db244b.png",
     "static/media/specs-2.539a9049.png": "/static/media/specs-2.539a9049.png",
     "static/media/specs-2.62a78c3e.png": "/static/media/specs-2.62a78c3e.png",
     "static/media/specs-2.6deb94cb.png": "/static/media/specs-2.6deb94cb.png",
+    "static/media/specs-2.a6a478a5.png": "/static/media/specs-2.a6a478a5.png",
     "static/media/specs-3.583f40c1.png": "/static/media/specs-3.583f40c1.png",
     "static/media/specs-3.7bd97495.png": "/static/media/specs-3.7bd97495.png",
     "static/media/specs-4.49ae1bcd.png": "/static/media/specs-4.49ae1bcd.png",
@@ -277,6 +277,6 @@
     "static/css/2.ce40cafb.chunk.css",
     "static/js/2.a5c3531b.chunk.js",
     "static/css/main.89f0342a.chunk.css",
-    "static/js/main.7d40f2a2.chunk.js"
+    "static/js/main.33e2e512.chunk.js"
   ]
 }
