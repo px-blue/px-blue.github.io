@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.89f0342a.chunk.css",
-    "main.js": "/static/js/main.e524c4fb.chunk.js",
-    "main.js.map": "/static/js/main.e524c4fb.chunk.js.map",
+    "main.js": "/static/js/main.daab6114.chunk.js",
+    "main.js.map": "/static/js/main.daab6114.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46770d2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.46770d2c.js.map",
     "static/css/2.ce40cafb.chunk.css": "/static/css/2.ce40cafb.chunk.css",
@@ -21,7 +21,6 @@
     "static/media/action-button-in-panel-header.4fdd44df.png": "/static/media/action-button-in-panel-header.4fdd44df.png",
     "static/media/anatomy.a72293e8.png": "/static/media/anatomy.a72293e8.png",
     "static/media/anatomy.e97f01b4.png": "/static/media/anatomy.e97f01b4.png",
-    "static/media/application.ecfb2a8c.png": "/static/media/application.ecfb2a8c.png",
     "static/media/auto-complete-variants.696910f8.png": "/static/media/auto-complete-variants.696910f8.png",
     "static/media/avatar-variants.30a0b6ae.png": "/static/media/avatar-variants.30a0b6ae.png",
     "static/media/banner.f1c17324.svg": "/static/media/banner.f1c17324.svg",
@@ -106,7 +105,6 @@
     "static/media/halloween-appbar-tile.678f51e3.svg": "/static/media/halloween-appbar-tile.678f51e3.svg",
     "static/media/hanukkah-appbar-tile.f73f6845.png": "/static/media/hanukkah-appbar-tile.f73f6845.png",
     "static/media/hanukkah-banner.cedd6205.png": "/static/media/hanukkah-banner.cedd6205.png",
-    "static/media/headline-options.18e3dce7.png": "/static/media/headline-options.18e3dce7.png",
     "static/media/hover-actions.489ac970.gif": "/static/media/hover-actions.489ac970.gif",
     "static/media/icon-align.ee615802.png": "/static/media/icon-align.ee615802.png",
     "static/media/icons-flipped.015f1a59.png": "/static/media/icons-flipped.015f1a59.png",
@@ -131,7 +129,6 @@
     "static/media/kwanzaa-appbar-tile.1b32e646.png": "/static/media/kwanzaa-appbar-tile.1b32e646.png",
     "static/media/kwanzaa-banner.12ec1837.png": "/static/media/kwanzaa-banner.12ec1837.png",
     "static/media/language-options.a93b8b3b.png": "/static/media/language-options.a93b8b3b.png",
-    "static/media/larger-application.8457bb85.png": "/static/media/larger-application.8457bb85.png",
     "static/media/layout-banner.2edeef29.svg": "/static/media/layout-banner.2edeef29.svg",
     "static/media/light-theme-colors.3ab26362.png": "/static/media/light-theme-colors.3ab26362.png",
     "static/media/light-theme-example.99994239.png": "/static/media/light-theme-example.99994239.png",
@@ -205,6 +202,7 @@
     "static/media/reset-password-desktop.f85ecb50.png": "/static/media/reset-password-desktop.f85ecb50.png",
     "static/media/resource-categories.e0a3f253.png": "/static/media/resource-categories.e0a3f253.png",
     "static/media/responsive-design.9f8ae9b4.png": "/static/media/responsive-design.9f8ae9b4.png",
+    "static/media/scorecard-variations.91713e52.png": "/static/media/scorecard-variations.91713e52.png",
     "static/media/scorecard.1543fb13.png": "/static/media/scorecard.1543fb13.png",
     "static/media/search.23a24a1c.gif": "/static/media/search.23a24a1c.gif",
     "static/media/simple-dialog.af52a259.png": "/static/media/simple-dialog.af52a259.png",
@@ -251,6 +249,7 @@
     "static/media/submit-button-on-blur.8278992f.png": "/static/media/submit-button-on-blur.8278992f.png",
     "static/media/submit-button-on-change.1c4bb4ba.png": "/static/media/submit-button-on-change.1c4bb4ba.png",
     "static/media/submit-button-on-click.59e16cbe.png": "/static/media/submit-button-on-click.59e16cbe.png",
+    "static/media/subtitle-variations.3870d60a.png": "/static/media/subtitle-variations.3870d60a.png",
     "static/media/text-field-width.090d43a2.png": "/static/media/text-field-width.090d43a2.png",
     "static/media/thanksgiving-appbar-tile.8db094b1.png": "/static/media/thanksgiving-appbar-tile.8db094b1.png",
     "static/media/thanksgiving-banner.02fe078d.jpg": "/static/media/thanksgiving-banner.02fe078d.jpg",
@@ -282,6 +281,6 @@
     "static/css/2.ce40cafb.chunk.css",
     "static/js/2.2603b539.chunk.js",
     "static/css/main.89f0342a.chunk.css",
-    "static/js/main.e524c4fb.chunk.js"
+    "static/js/main.daab6114.chunk.js"
   ]
 }
