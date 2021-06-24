@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.89f0342a.chunk.css",
-    "main.js": "/static/js/main.daab6114.chunk.js",
-    "main.js.map": "/static/js/main.daab6114.chunk.js.map",
+    "main.js": "/static/js/main.f986ab0b.chunk.js",
+    "main.js.map": "/static/js/main.f986ab0b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46770d2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.46770d2c.js.map",
     "static/css/2.ce40cafb.chunk.css": "/static/css/2.ce40cafb.chunk.css",
@@ -34,9 +34,11 @@
     "static/media/change-password.669f3d1f.png": "/static/media/change-password.669f3d1f.png",
     "static/media/christmas-eve.4077e3aa.png": "/static/media/christmas-eve.4077e3aa.png",
     "static/media/circles.svg": "/static/media/circles.1aea7c7b.svg",
-    "static/media/collapsed.36a78451.png": "/static/media/collapsed.36a78451.png",
+    "static/media/collapsible-app-bar-1.ab5f5a69.png": "/static/media/collapsible-app-bar-1.ab5f5a69.png",
+    "static/media/collapsible-app-bar-2.0b46f1d9.png": "/static/media/collapsible-app-bar-2.0b46f1d9.png",
+    "static/media/collapsible-app-bar-dynamic.96b08a34.gif": "/static/media/collapsible-app-bar-dynamic.96b08a34.gif",
+    "static/media/collapsible-app-bar-snap.7124ea4d.gif": "/static/media/collapsible-app-bar-snap.7124ea4d.gif",
     "static/media/collapsible.02670932.png": "/static/media/collapsible.02670932.png",
-    "static/media/collapsible.13eb5205.gif": "/static/media/collapsible.13eb5205.gif",
     "static/media/component-search.bb6d687e.png": "/static/media/component-search.bb6d687e.png",
     "static/media/consumer-industrial.258deab5.png": "/static/media/consumer-industrial.258deab5.png",
     "static/media/contacts.d2655e6d.png": "/static/media/contacts.d2655e6d.png",
@@ -228,14 +230,16 @@
     "static/media/specs-1.7358d61d.png": "/static/media/specs-1.7358d61d.png",
     "static/media/specs-1.9be7da2e.png": "/static/media/specs-1.9be7da2e.png",
     "static/media/specs-2.539a9049.png": "/static/media/specs-2.539a9049.png",
-    "static/media/specs-2.62a78c3e.png": "/static/media/specs-2.62a78c3e.png",
+    "static/media/specs-2.56b9726f.png": "/static/media/specs-2.56b9726f.png",
     "static/media/specs-2.6deb94cb.png": "/static/media/specs-2.6deb94cb.png",
     "static/media/specs-2.a6a478a5.png": "/static/media/specs-2.a6a478a5.png",
     "static/media/specs-3.583f40c1.png": "/static/media/specs-3.583f40c1.png",
     "static/media/specs-3.7bd97495.png": "/static/media/specs-3.7bd97495.png",
     "static/media/specs-4.49ae1bcd.png": "/static/media/specs-4.49ae1bcd.png",
     "static/media/specs-4.fdf0a986.png": "/static/media/specs-4.fdf0a986.png",
+    "static/media/specs-5.5aa1a997.png": "/static/media/specs-5.5aa1a997.png",
     "static/media/specs-5.b9d84a6a.png": "/static/media/specs-5.b9d84a6a.png",
+    "static/media/specs-6.4c52f8f7.png": "/static/media/specs-6.4c52f8f7.png",
     "static/media/specs-desktop-1.81e6875e.png": "/static/media/specs-desktop-1.81e6875e.png",
     "static/media/specs-dialog-1.23aea98c.png": "/static/media/specs-dialog-1.23aea98c.png",
     "static/media/specs-dialog-2.15d5344c.png": "/static/media/specs-dialog-2.15d5344c.png",
@@ -274,13 +278,14 @@
     "static/media/webapp.f3134267.jpg": "/static/media/webapp.f3134267.jpg",
     "static/media/website-design.afc0da52.jpg": "/static/media/website-design.afc0da52.jpg",
     "static/media/website.e1ab389d.jpg": "/static/media/website.e1ab389d.jpg",
-    "static/media/welcome-onboard.4a1dad24.png": "/static/media/welcome-onboard.4a1dad24.png"
+    "static/media/welcome-onboard.4a1dad24.png": "/static/media/welcome-onboard.4a1dad24.png",
+    "static/media/what-to-hide-on-collapse.ba4872e5.png": "/static/media/what-to-hide-on-collapse.ba4872e5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.46770d2c.js",
     "static/css/2.ce40cafb.chunk.css",
     "static/js/2.2603b539.chunk.js",
     "static/css/main.89f0342a.chunk.css",
-    "static/js/main.daab6114.chunk.js"
+    "static/js/main.f986ab0b.chunk.js"
   ]
 }
