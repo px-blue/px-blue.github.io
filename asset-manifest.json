@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.89f0342a.chunk.css",
-    "main.js": "/static/js/main.9a39f6fb.chunk.js",
-    "main.js.map": "/static/js/main.9a39f6fb.chunk.js.map",
+    "main.js": "/static/js/main.e524c4fb.chunk.js",
+    "main.js.map": "/static/js/main.e524c4fb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46770d2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.46770d2c.js.map",
     "static/css/2.ce40cafb.chunk.css": "/static/css/2.ce40cafb.chunk.css",
@@ -27,6 +27,7 @@
     "static/media/banner.f1c17324.svg": "/static/media/banner.f1c17324.svg",
     "static/media/basic-app-bars.fd8b60ea.png": "/static/media/basic-app-bars.fd8b60ea.png",
     "static/media/bottom-tabs-specs.208b783e.png": "/static/media/bottom-tabs-specs.208b783e.png",
+    "static/media/bottomsheet-styles.9a134576.png": "/static/media/bottomsheet-styles.9a134576.png",
     "static/media/button-width.1b79b1bb.png": "/static/media/button-width.1b79b1bb.png",
     "static/media/castles.30765c0e.svg": "/static/media/castles.30765c0e.svg",
     "static/media/change-password-confirm.29004a5f.png": "/static/media/change-password-confirm.29004a5f.png",
@@ -148,6 +149,8 @@
     "static/media/map.9c135be1.png": "/static/media/map.9c135be1.png",
     "static/media/may-the-4th-appbar-tile.3375afb7.svg": "/static/media/may-the-4th-appbar-tile.3375afb7.svg",
     "static/media/mini-search.d282730f.png": "/static/media/mini-search.d282730f.png",
+    "static/media/modal-bottom-sheet-desktop.580a2392.png": "/static/media/modal-bottom-sheet-desktop.580a2392.png",
+    "static/media/modal-bottom-sheet-mobile.ca7b9e08.png": "/static/media/modal-bottom-sheet-mobile.ca7b9e08.png",
     "static/media/multi-select-list.1836a8cd.png": "/static/media/multi-select-list.1836a8cd.png",
     "static/media/navigate-list-1.6c58bcb6.png": "/static/media/navigate-list-1.6c58bcb6.png",
     "static/media/navigate-list-2.9bc82445.png": "/static/media/navigate-list-2.9bc82445.png",
@@ -204,7 +207,6 @@
     "static/media/responsive-design.9f8ae9b4.png": "/static/media/responsive-design.9f8ae9b4.png",
     "static/media/scorecard.1543fb13.png": "/static/media/scorecard.1543fb13.png",
     "static/media/search.23a24a1c.gif": "/static/media/search.23a24a1c.gif",
-    "static/media/simple-bottomsheet.530ef5c5.png": "/static/media/simple-bottomsheet.530ef5c5.png",
     "static/media/simple-dialog.af52a259.png": "/static/media/simple-dialog.af52a259.png",
     "static/media/simple-list-1.e5815076.png": "/static/media/simple-list-1.e5815076.png",
     "static/media/simple-list-2.bfa3d11a.png": "/static/media/simple-list-2.bfa3d11a.png",
@@ -280,6 +282,6 @@
     "static/css/2.ce40cafb.chunk.css",
     "static/js/2.2603b539.chunk.js",
     "static/css/main.89f0342a.chunk.css",
-    "static/js/main.9a39f6fb.chunk.js"
+    "static/js/main.e524c4fb.chunk.js"
   ]
 }
