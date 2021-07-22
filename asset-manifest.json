@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8d8aca3f.chunk.css",
-    "main.js": "/static/js/main.715ff2c0.chunk.js",
-    "main.js.map": "/static/js/main.715ff2c0.chunk.js.map",
+    "main.js": "/static/js/main.be5e0140.chunk.js",
+    "main.js.map": "/static/js/main.be5e0140.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46770d2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.46770d2c.js.map",
     "static/css/2.ce40cafb.chunk.css": "/static/css/2.ce40cafb.chunk.css",
@@ -207,6 +207,8 @@
     "static/media/reset-password-desktop.f85ecb50.png": "/static/media/reset-password-desktop.f85ecb50.png",
     "static/media/resource-categories.e0a3f253.png": "/static/media/resource-categories.e0a3f253.png",
     "static/media/responsive-design.9f8ae9b4.png": "/static/media/responsive-design.9f8ae9b4.png",
+    "static/media/safe-area.271cd3ab.png": "/static/media/safe-area.271cd3ab.png",
+    "static/media/safe-area.d19ee080.png": "/static/media/safe-area.d19ee080.png",
     "static/media/scorecard-variations.91713e52.png": "/static/media/scorecard-variations.91713e52.png",
     "static/media/scorecard.1543fb13.png": "/static/media/scorecard.1543fb13.png",
     "static/media/search.23a24a1c.gif": "/static/media/search.23a24a1c.gif",
@@ -289,6 +291,6 @@
     "static/css/2.ce40cafb.chunk.css",
     "static/js/2.3b9dab3b.chunk.js",
     "static/css/main.8d8aca3f.chunk.css",
-    "static/js/main.715ff2c0.chunk.js"
+    "static/js/main.be5e0140.chunk.js"
   ]
 }
