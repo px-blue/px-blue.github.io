@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8d8aca3f.chunk.css",
-    "main.js": "/static/js/main.011f583d.chunk.js",
-    "main.js.map": "/static/js/main.011f583d.chunk.js.map",
+    "main.js": "/static/js/main.d0ab4196.chunk.js",
+    "main.js.map": "/static/js/main.d0ab4196.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46770d2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.46770d2c.js.map",
     "static/css/2.ce40cafb.chunk.css": "/static/css/2.ce40cafb.chunk.css",
@@ -144,6 +144,7 @@
     "static/media/list-color-incorrect.71d76254.png": "/static/media/list-color-incorrect.71d76254.png",
     "static/media/lists.e6f436f5.svg": "/static/media/lists.e6f436f5.svg",
     "static/media/loading-banner.ba9dc025.svg": "/static/media/loading-banner.ba9dc025.svg",
+    "static/media/local-list-actions-2.8a61b5c0.png": "/static/media/local-list-actions-2.8a61b5c0.png",
     "static/media/local-list-actions.cf163297.png": "/static/media/local-list-actions.cf163297.png",
     "static/media/login-desktop.880bde9c.png": "/static/media/login-desktop.880bde9c.png",
     "static/media/login.19870f83.png": "/static/media/login.19870f83.png",
@@ -292,6 +293,6 @@
     "static/css/2.ce40cafb.chunk.css",
     "static/js/2.3b9dab3b.chunk.js",
     "static/css/main.8d8aca3f.chunk.css",
-    "static/js/main.011f583d.chunk.js"
+    "static/js/main.d0ab4196.chunk.js"
   ]
 }
