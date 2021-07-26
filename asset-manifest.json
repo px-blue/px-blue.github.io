@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8d8aca3f.chunk.css",
-    "main.js": "/static/js/main.09ca9fe8.chunk.js",
-    "main.js.map": "/static/js/main.09ca9fe8.chunk.js.map",
+    "main.js": "/static/js/main.011f583d.chunk.js",
+    "main.js.map": "/static/js/main.011f583d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46770d2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.46770d2c.js.map",
     "static/css/2.ce40cafb.chunk.css": "/static/css/2.ce40cafb.chunk.css",
@@ -21,6 +21,7 @@
     "static/media/action-button-in-panel-header.4fdd44df.png": "/static/media/action-button-in-panel-header.4fdd44df.png",
     "static/media/anatomy.a72293e8.png": "/static/media/anatomy.a72293e8.png",
     "static/media/anatomy.e97f01b4.png": "/static/media/anatomy.e97f01b4.png",
+    "static/media/animation.fb80fe83.gif": "/static/media/animation.fb80fe83.gif",
     "static/media/auto-complete-variants.696910f8.png": "/static/media/auto-complete-variants.696910f8.png",
     "static/media/avatar-variants.525d0ae1.png": "/static/media/avatar-variants.525d0ae1.png",
     "static/media/banner.f1c17324.svg": "/static/media/banner.f1c17324.svg",
@@ -291,6 +292,6 @@
     "static/css/2.ce40cafb.chunk.css",
     "static/js/2.3b9dab3b.chunk.js",
     "static/css/main.8d8aca3f.chunk.css",
-    "static/js/main.09ca9fe8.chunk.js"
+    "static/js/main.011f583d.chunk.js"
   ]
 }
