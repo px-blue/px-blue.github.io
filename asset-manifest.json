@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8d8aca3f.chunk.css",
-    "main.js": "/static/js/main.d0ab4196.chunk.js",
-    "main.js.map": "/static/js/main.d0ab4196.chunk.js.map",
+    "main.js": "/static/js/main.6f49866c.chunk.js",
+    "main.js.map": "/static/js/main.6f49866c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46770d2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.46770d2c.js.map",
     "static/css/2.ce40cafb.chunk.css": "/static/css/2.ce40cafb.chunk.css",
@@ -40,6 +40,7 @@
     "static/media/collapsible-app-bar-dynamic.96b08a34.gif": "/static/media/collapsible-app-bar-dynamic.96b08a34.gif",
     "static/media/collapsible-app-bar-snap.7124ea4d.gif": "/static/media/collapsible-app-bar-snap.7124ea4d.gif",
     "static/media/collapsible.02670932.png": "/static/media/collapsible.02670932.png",
+    "static/media/combined-drawer.be7d34f6.png": "/static/media/combined-drawer.be7d34f6.png",
     "static/media/component-search.bb6d687e.png": "/static/media/component-search.bb6d687e.png",
     "static/media/consumer-industrial.258deab5.png": "/static/media/consumer-industrial.258deab5.png",
     "static/media/contacts.d2655e6d.png": "/static/media/contacts.d2655e6d.png",
@@ -201,6 +202,7 @@
     "static/media/pattern-states.2af73dec.png": "/static/media/pattern-states.2af73dec.png",
     "static/media/patterns.eee94901.svg": "/static/media/patterns.eee94901.svg",
     "static/media/persistent-drawer-hover.3e5d5739.gif": "/static/media/persistent-drawer-hover.3e5d5739.gif",
+    "static/media/persistent-drawer-pitfall.cab14460.gif": "/static/media/persistent-drawer-pitfall.cab14460.gif",
     "static/media/pie-chart.25109b98.png": "/static/media/pie-chart.25109b98.png",
     "static/media/progress-bar.b812f0ae.gif": "/static/media/progress-bar.b812f0ae.gif",
     "static/media/pulsate.8982cafa.gif": "/static/media/pulsate.8982cafa.gif",
@@ -293,6 +295,6 @@
     "static/css/2.ce40cafb.chunk.css",
     "static/js/2.3b9dab3b.chunk.js",
     "static/css/main.8d8aca3f.chunk.css",
-    "static/js/main.d0ab4196.chunk.js"
+    "static/js/main.6f49866c.chunk.js"
   ]
 }
