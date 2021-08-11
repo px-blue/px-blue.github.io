@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8d8aca3f.chunk.css",
-    "main.js": "/static/js/main.5ad89150.chunk.js",
-    "main.js.map": "/static/js/main.5ad89150.chunk.js.map",
+    "main.js": "/static/js/main.84151f47.chunk.js",
+    "main.js.map": "/static/js/main.84151f47.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46770d2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.46770d2c.js.map",
     "static/css/2.ce40cafb.chunk.css": "/static/css/2.ce40cafb.chunk.css",
@@ -41,6 +41,8 @@
     "static/media/collapsible-app-bar-snap.7124ea4d.gif": "/static/media/collapsible-app-bar-snap.7124ea4d.gif",
     "static/media/collapsible.02670932.png": "/static/media/collapsible.02670932.png",
     "static/media/combined-drawer.be7d34f6.png": "/static/media/combined-drawer.be7d34f6.png",
+    "static/media/compete-attention-1.7e195195.png": "/static/media/compete-attention-1.7e195195.png",
+    "static/media/compete-attention-2.e4768737.png": "/static/media/compete-attention-2.e4768737.png",
     "static/media/component-search.bb6d687e.png": "/static/media/component-search.bb6d687e.png",
     "static/media/consumer-industrial.258deab5.png": "/static/media/consumer-industrial.258deab5.png",
     "static/media/contacts.d2655e6d.png": "/static/media/contacts.d2655e6d.png",
@@ -254,6 +256,8 @@
     "static/media/specs-dialog-2.15d5344c.png": "/static/media/specs-dialog-2.15d5344c.png",
     "static/media/st-patricks-day-appbar-tile.ba7b1c10.png": "/static/media/st-patricks-day-appbar-tile.ba7b1c10.png",
     "static/media/st-patricks-day-banner.b78cd9fe.png": "/static/media/st-patricks-day-banner.b78cd9fe.png",
+    "static/media/status-color-1.06ace088.png": "/static/media/status-color-1.06ace088.png",
+    "static/media/status-color-2.a5792876.png": "/static/media/status-color-2.a5792876.png",
     "static/media/status-list.dee2f48f.png": "/static/media/status-list.dee2f48f.png",
     "static/media/steppers-banner.00cbce24.svg": "/static/media/steppers-banner.00cbce24.svg",
     "static/media/style-choice.e968c4fc.png": "/static/media/style-choice.e968c4fc.png",
@@ -264,6 +268,10 @@
     "static/media/submit-button-on-click.59e16cbe.png": "/static/media/submit-button-on-click.59e16cbe.png",
     "static/media/subtitle-variations.3870d60a.png": "/static/media/subtitle-variations.3870d60a.png",
     "static/media/text-field-width.090d43a2.png": "/static/media/text-field-width.090d43a2.png",
+    "static/media/text-hierarchy-1.7050ad4d.png": "/static/media/text-hierarchy-1.7050ad4d.png",
+    "static/media/text-hierarchy-2.308af2d4.png": "/static/media/text-hierarchy-2.308af2d4.png",
+    "static/media/text-hierarchy-3.d4caecfd.png": "/static/media/text-hierarchy-3.d4caecfd.png",
+    "static/media/text-hierarchy-4.29511cb0.png": "/static/media/text-hierarchy-4.29511cb0.png",
     "static/media/thanksgiving-appbar-tile.8db094b1.png": "/static/media/thanksgiving-appbar-tile.8db094b1.png",
     "static/media/thanksgiving-banner.02fe078d.jpg": "/static/media/thanksgiving-banner.02fe078d.jpg",
     "static/media/tile.25f500f4.svg": "/static/media/tile.25f500f4.svg",
@@ -295,6 +303,6 @@
     "static/css/2.ce40cafb.chunk.css",
     "static/js/2.3b9dab3b.chunk.js",
     "static/css/main.8d8aca3f.chunk.css",
-    "static/js/main.5ad89150.chunk.js"
+    "static/js/main.84151f47.chunk.js"
   ]
 }
