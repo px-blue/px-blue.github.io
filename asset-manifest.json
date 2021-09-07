@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4993f48e.chunk.css",
-    "main.js": "/static/js/main.bf9ae537.chunk.js",
-    "main.js.map": "/static/js/main.bf9ae537.chunk.js.map",
+    "main.js": "/static/js/main.71256768.chunk.js",
+    "main.js.map": "/static/js/main.71256768.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.46770d2c.js",
     "runtime-main.js.map": "/static/js/runtime-main.46770d2c.js.map",
     "static/css/2.ce40cafb.chunk.css": "/static/css/2.ce40cafb.chunk.css",
@@ -291,7 +291,7 @@
     "static/media/verify-email.948f6741.png": "/static/media/verify-email.948f6741.png",
     "static/media/verify-input-on-blur.3a9894d7.png": "/static/media/verify-input-on-blur.3a9894d7.png",
     "static/media/verify-input-on-change.a51326c9.png": "/static/media/verify-input-on-change.a51326c9.png",
-    "static/media/verify-input-on-page-change.4cc0a38c.png": "/static/media/verify-input-on-page-change.4cc0a38c.png",
+    "static/media/verify-on-submit.5e7f3281.gif": "/static/media/verify-on-submit.5e7f3281.gif",
     "static/media/visualizations-banner.5f4f740f.svg": "/static/media/visualizations-banner.5f4f740f.svg",
     "static/media/wave.3844568d.gif": "/static/media/wave.3844568d.gif",
     "static/media/webapp.f3134267.jpg": "/static/media/webapp.f3134267.jpg",
@@ -305,6 +305,6 @@
     "static/css/2.ce40cafb.chunk.css",
     "static/js/2.2e898b24.chunk.js",
     "static/css/main.4993f48e.chunk.css",
-    "static/js/main.bf9ae537.chunk.js"
+    "static/js/main.71256768.chunk.js"
   ]
 }
